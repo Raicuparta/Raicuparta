@@ -2,6 +2,6 @@
 
 [![Support on Patreon](https://img.shields.io/badge/dynamic/json?style=flat-square&color=D93841&label=Patreon&logoColor=fff&query=data.attributes.patron_count&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F7004713&logo=patreon)](https://www.patreon.com/raivr)
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-$$$-00457C?logo=paypal&logoColor=white&style=flat-square)](https://paypal.me/raicuparta/5usd)
-[![Raicuparta's Youtube](https://img.shields.io/youtube/channel/subscribers/UCBZb-2BHvUtZ-WzrEj16lug?color=AD1717&label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/c/Raicuparta)
+[![Raicuparta's Youtube](https://img.shields.io/endpoint?color=AD1717&label=YouTube&logoColor=fff&style=flat-square&url=https%3A%2F%2Fyoutube-channel-badge-orpin.vercel.app%2Fapi%2Fsubscriber)](https://www.youtube.com/c/Raicuparta)
 [![Twitter @Raicuparta](https://img.shields.io/badge/Twitter-sucks-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Raicuparta)
 [![Mastodon @Raicuparta](https://img.shields.io/mastodon/follow/109258008992010873?color=6a5df9&domain=https%3A%2F%2Fmastodon.gamedev.place&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square)](https://mastodon.gamedev.place/@Raicuparta)
